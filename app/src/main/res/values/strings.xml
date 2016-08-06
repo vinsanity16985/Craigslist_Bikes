@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P5_Bikes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="defenderURL">http://www.pcs.cnu.edu/~kperkins/bikes/</string>
+    <string name="tetonURL">http://www.tetonsoftware.com/bikes/</string>
+    <string name="tetonNAME">Pair - Teton Software</string>
+    <string name="settings_title">JSON Bike Site</string>
+    <string name="settings_key">JSON Website</string>
+    <string name="settings_summary">Select which site to get JSON data from</string>
+    <string name="alertdialog_title">No Network Connection</string>
+    <string name="alertdialog_message">The Network is unavailable. Please try your request again later</string>
+    <string name="app_title">Sort by:</string>
+    <string name="json_website">JSON Website</string>
+    <string name="alert_ok">OK</string>
+    <string name="alert_title">No Network Connection</string>
+    <string name="alert_message">The Network is unavailable. Please try your request again later.</string>
+
+</resources>
